@@ -32,16 +32,15 @@
 모든 환경들은 Unity ML-agents version 0.8을 이용하여 제작되었습니다. 다음과 같은 데모 환경이 제공됩니다.
 
 
-### 2. 드론 
+### 2. Asset
 
 
-드론 환경에서는 [ProfessionalAssets](https://assetstore.unity.com/publishers/31857)에서 제작한 다음의 에셋을 사용하였습니다. 
+ [ProfessionalAssets](https://assetstore.unity.com/publishers/31857) 다음의 에셋을 사용하였습니다. 
 
 - [Free Drone Pack](https://assetstore.unity.com/packages/tools/physics/free-pack-117641)
 
-- [Professional Drone Pack](https://assetstore.unity.com/packages/tools/physics/professional-drone-pack-drone-controller-vr-pc-mobile-gamepad-100970): 위 드론 에셋의 유료 버전입니다. 더 많은 환경과 드론들을 제공합니다.
+- [Professional Drone Pack](https://assetstore.unity.com/packages/tools/physics/professional-drone-pack-drone-controller-vr-pc-mobile-gamepad-100970):  에셋 유료 버전. 더 많은 환경과 드론들을 제공합니다.
 
-<img src="./images/Drone.gif" alt="Drone" style="width: 500px;"/>
 
 
 
