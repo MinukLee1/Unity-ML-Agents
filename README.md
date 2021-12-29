@@ -39,8 +39,7 @@
 
 - [Free Drone Pack](https://assetstore.unity.com/packages/tools/physics/free-pack-117641)
 
-- [Professional Drone Pack](https://assetstore.unity.com/packages/tools/physics/professional-drone-pack-drone-controller-vr-pc-mobile-gamepad-100970):  에셋 유료 버전. 더 많은 환경과 드론들을 제공합니다.
-
+- [Professional Drone Pack](https://assetstore.unity.com/packages/tools/physics/professional-drone-pack-drone-controller-vr-pc-mobile-gamepad-100970):  에셋 유료 버전
 
 
 
