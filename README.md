@@ -1,6 +1,6 @@
 # Unity ML-agents 2.0 튜토리얼 프로젝트
 
-이 레포지포리는 Unity ML-Agents([Github](<https://github.com/Unity-Technologies/ml-agents>))로 만든 간단한 환경들을 제공합니다. 또한 제공된 환경들에서 에이전트를 학습할 수 있는 심층강화학습 알고리즘을 제공합니다. 
+이 레포지포리는 Unity ML-Agents 2.0 ([Github](<https://github.com/Unity-Technologies/ml-agents>))로 만든 간단한 환경들을 제공합니다. 또한 제공된 환경들에서 에이전트를 학습할 수 있는 심층강화학습 알고리즘을 제공합니다. 
 
 
 
