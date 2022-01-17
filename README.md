@@ -29,7 +29,7 @@
 
 ## 환경 
 
-모든 환경들은 Unity ML-agents version 0.8을 이용하여 제작되었습니다. 다음과 같은 데모 환경이 제공됩니다.
+모든 환경들은 Unity ML-agents version 2.0을 이용하여 제작되었습니다. 다음과 같은 데모 환경이 제공됩니다.
 
 
 ### 2. Asset
