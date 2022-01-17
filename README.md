@@ -11,7 +11,7 @@
 - **Unity**: 2019.1
 - **Python**: 3.6
 - **Tensorflow**: 1.12.0
-- **ML-Agents**: 0.8.1
+- **ML-Agents**: 2.0
 
 
 <br>
